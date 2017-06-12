@@ -1,0 +1,63 @@
+{
+  "code" : 0,
+  "data" : [
+    {
+      "children" : [
+        {
+          "id" : 301,
+          "level" : "2",
+          "name" : "南果"
+        },
+        {
+          "id" : 302,
+          "level" : "2",
+          "name" : "北果"
+        },
+        {
+          "id" : 303,
+          "level" : "2",
+          "name" : "进口果"
+        }
+      ],
+      "id" : 30,
+      "level" : 1,
+      "name" : "水果"
+    },
+    {
+      "children" : [],
+      "id" : 31,
+      "level" : 1,
+      "name" : "蔬菜"
+    },
+    {
+      "children" : [],
+      "id" : 32,
+      "level" : 1,
+      "name" : "冻品"
+    },
+    {
+      "children" : [],
+      "id" : 33,
+      "level" : 1,
+      "name" : "干货"
+    },
+    {
+      "children" : [
+        {
+          "id" : 36,
+          "level" : 2,
+          "name" : "红茶"
+        },
+        {
+          "id" : 37,
+          "level" : 2,
+          "name" : "绿茶"
+        }
+      ],
+      "id" : 34,
+      "level" : 1,
+      "name" : "茶叶"
+    }
+  ],
+  "message" : "操作成功!"
+}
